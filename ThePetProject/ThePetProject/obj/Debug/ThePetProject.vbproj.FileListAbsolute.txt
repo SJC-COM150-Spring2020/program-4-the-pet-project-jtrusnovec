@@ -1,0 +1,11 @@
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\bin\Debug\ThePetProject.exe.config
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\bin\Debug\ThePetProject.exe
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\bin\Debug\ThePetProject.pdb
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\bin\Debug\ThePetProject.xml
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.vbprojResolveAssemblyReference.cache
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.PetVoting.resources
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.Resources.resources
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.vbproj.GenerateResource.Cache
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.exe
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.xml
+F:\jtrusnovec\projects\ThePetProject\ThePetProject\ThePetProject\obj\Debug\ThePetProject.pdb
